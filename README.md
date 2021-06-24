@@ -11,6 +11,9 @@ Se desarrolla modelo de predicción de las familias de arboles
 ## Links:
 - [Notebook del proyecto](https://github.com/ANGELJSS/Modelo-predictivo-en-Recursos-Humanos/blob/main/00_JORGE_SALAZAR_ANGEL_PROYECTO1_(1).ipynb)
 
-- [Link de la data]()
+- [Link de la data](https://github.com/ANGELJSS/Modelo-predictivo-en-Recursos-Humanos/tree/main/Data)
+
+
+
 
 
